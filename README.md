@@ -1,5 +1,5 @@
 ## Introduction
-This repository contains all the files and materials ralated to the course "Introduction to Artificial Intelligence"
+This repository contains all the files and materials ralated to the course "Introduction to Artificial Intelligence" from UW Madison
 
 Feel free to use them for referrence :)
 
